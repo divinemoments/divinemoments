@@ -5,10 +5,12 @@ I’m a numbers enthusiast who loves crunching data and solving problems. I have
 
 ### 📌 Languages and Tools
 
-<img align="left" alt="java" width="50px" style="padding-right;10px;" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" />
-<img align="left" alt="java" width="50px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-<img align="left" alt="java" width="50px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />          
-<img align="left" alt="java" width="40px" style="padding-right;10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
-<img align="left" alt="java" width="50px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />          
-<img align="left" alt="java" width="50px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-<img align="left" alt="java" width="50px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+<img align="left" alt="java" width="35px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
+<img align="left" alt="java" width="40px" style="padding-right;10px;" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" />
+<img align="left" alt="java" width="40px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<img align="left" alt="java" width="40px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> 
+<img align="left" alt="java" width="40px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />          
+<img align="left" alt="java" width="30px" style="padding-right;10px;" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" />
+<img align="left" alt="java" width="40px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />     
+<img align="left" alt="java" width="40px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
+<img align="left" alt="java" width="40px" style="padding-right;10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
